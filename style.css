@@ -1,0 +1,63 @@
+/*.d-inline-block {
+    align-items: center;
+    margin: 10px;
+}*/
+
+
+
+/* navbar containers below  */
+
+
+/*.navbar {
+    margin-top: 40px;
+    margin-bottom: 40px;
+   
+    position: fixed;
+    top: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 0%;
+  }*/
+
+/* .navbar-brand{
+    margin-top: 15px;
+    margin-left: 16px;
+    padding:0%;
+} */
+
+/* .brandimage {
+    margin-left: 5px;
+    margin-right: 5px;
+
+} */
+
+.text123 {
+    display: center;
+    font-size: 30px;
+    justify-content: center;
+    margin-left: 10px;
+}
+
+/* side bar button customization below  */
+
+.st-emotion-cache-9ycgxx {
+    align-self: center;
+}
+/* drag and drop statement */
+
+div.st-emotion-cache-1v7f65g .e1b2p2ww15 {
+    align-items: normal;
+
+}
+/*button stretch*/
+
+div.st-emotion-cache-1v7f65g .e1b2p2ww14 {
+    margin: auto;
+    margin-bottom: 1rem;
+} 
+/*box padding change */
+
+
+
+

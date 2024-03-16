@@ -1,0 +1,4 @@
+venv
+Data/
+similarity.pkl
+movie_list.pkl
