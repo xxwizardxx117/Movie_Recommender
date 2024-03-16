@@ -13,5 +13,5 @@ This is a simple recommending system which was built using 🔗[Kaggle](https://
 
 | Reference              | Description                                                |
 | ---------------------- | ---------------------------------------------------------- |
-| **🔗[Recommender](https://movie-recommender-0bd1.onrender.com/)** | Opens the Recommender Web Page. |
+| **🔗[Recommender](https://movie-recommender-gc0x.onrender.com)** | Opens the Recommender Web Page. |
 | **🔗[Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)**| Opens Kaggle Dataset. |
