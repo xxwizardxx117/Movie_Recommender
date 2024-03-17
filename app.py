@@ -31,7 +31,7 @@ st.markdown("""
 <nav class="navbar  navbar-expand-lg navbar-dark bg-dark" style=" ">
   <div class="container-fluid">
     <div class="d-flex justify-content-between w-100">
-      <a class="navbar-brand d-flex align-items-center" href="https://movie-recommender-gc0x.onrender.com">
+      <a class="navbar-brand d-flex align-items-center" href="https://whatowatchnext.streamlit.app/">
         <img src="https://th.bing.com/th/id/OIP.ZKF5kSelg-1ogpHrJUOAXgHaEK?rs=1&pid=ImgDetMain" alt="Logo" width="60" height="40" class="d-inline-block align-self-center brand-logo">
         <b class="text123 ml-2 brand-text">Movies Recommender</b>
       </a>
